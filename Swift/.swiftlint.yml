@@ -23,6 +23,7 @@ disabled_rules:
    - redundant_type_annotation
    - inert_defer
    - unused_capture_list
+   - indentation_width
 
 # Reporter style
 reporter: xcode
