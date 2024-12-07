@@ -24,6 +24,9 @@ disabled_rules:
    - inert_defer
    - unused_capture_list
    - indentation_width
+   - file_name
+   - attributes
+   - no_extension_access_modifier
 
 # Reporter style
 reporter: xcode
